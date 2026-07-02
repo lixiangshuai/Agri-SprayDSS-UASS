@@ -122,7 +122,7 @@ Numeric operation inputs accept values to two decimal places. Downwind distance 
 | Relative humidity | % | 20-80 | Fine threshold: higher than 55.51%. Medium threshold: higher than 54.05%. |
 | Operating altitude | m | 2-6 | Fine threshold: below 2.92 m. Medium threshold: below 3.34 m. |
 | Operating speed | m/s | 3-8 | Fine threshold: below 4.65 m/s. Medium threshold: below 5.09 m/s. |
-| Droplet size | selector | Fine or medium | Selects which trained `.ubj` model is loaded. |
+| Droplet size | μm | Fine or medium | Selects which trained `.ubj` model is loaded according to the fine- or medium-droplet size category. |
 | Downwind distance | m | 1-100 | Default is 1 m; used in prediction and SHAP computation but hidden from displayed explanation views. |
 
 ## Interpretation Note

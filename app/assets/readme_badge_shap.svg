@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30" viewBox="0 0 150 30" role="img" aria-label="On-demand SHAP">
+  <rect width="150" height="30" rx="8" fill="#0f172a"/>
+  <rect x="0.5" y="0.5" width="149" height="29" rx="7.5" fill="none" stroke="#f472b6" opacity="0.65"/>
+  <path d="M13 19h4v-7h-4v7Zm7 0h4V9h-4v10Zm7 0h4v-5h-4v5Z" fill="#f9a8d4"/>
+  <text x="39" y="19.5" fill="#fce7f3" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600">On-demand SHAP</text>
+</svg>

@@ -136,11 +136,7 @@ python -m pip install -r requirements.txt
 python -m streamlit run app/streamlit_app.py
 ```
 
-Then open:
-
-```text
-http://127.0.0.1:8501/
-```
+After startup, Streamlit will print the local access address in the terminal.
 
 ## Quick Core Check
 
